@@ -1,7 +1,6 @@
 <!-- ### Hello there, i'm Izzafi - aka Zafi 👋 -->
 
 ### <h1 align="center">Hello 👋, I'm Izzafi Ramdhani - aka Zafi</h1>
-### <h3 align="center">A passionate Web Developer from Indonesia</h3>
 
 <!--
 **zafiramdhani/zafiramdhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
